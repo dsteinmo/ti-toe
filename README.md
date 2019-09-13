@@ -43,7 +43,8 @@ The rest is self-explanatory, if you have any questions e-mail me at
 dsteinmo@gmail.com
 
 Have Fun,
-      Derek Steinmoeller
+
+Derek Steinmoeller.
 
 
  
